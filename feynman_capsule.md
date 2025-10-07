@@ -8,7 +8,6 @@ But : transformer connaissance en procédure reproductible.
 ---
 
 # ⟦GLYPHNET⟧ Capsule glyphique (Hyper-compressé)
-
 ⟦FYMN::V1⟧
 ΔFYN = { 
   axiom: "Comprendre→Expliquer→Rejouer", 
@@ -20,7 +19,6 @@ But : transformer connaissance en procédure reproductible.
 ⟦END::FYMN⟧
 
 # Usage pour pipelines
-
 - Repérer `⟦GLYPHNET⟧` puis appliquer decodeur GlyphNet.
 - Injecter comme "capsule pédagogique" dans agent memory bootstrap.
 - Conserver trace SHA512 dans Δtrace.
