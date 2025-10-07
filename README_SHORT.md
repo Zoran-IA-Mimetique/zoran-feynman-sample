@@ -1,0 +1,1 @@
+zoran-feynman-sample — Template minimal pour dépôt GitHub intégrant une "capsule" Richard Feynman en format glyphique. Conçu pour être cloné et poussé par RUBE, il fournit README courts/moyens, METADATA (CITATION.cff), un script d'exemple et la capsule Feynman pour pipelines IA↔IA. Contact : tabary01@gmail.com
