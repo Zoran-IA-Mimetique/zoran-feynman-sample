@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "zoran-feynman-sample"
+authors:
+  - family-names: "Tabary"
+    given-names: "Frédéric"
+date-released: 2025-10-07
+version: "0.1.0"
+doi: "10.5281/zenodo.16940525"
